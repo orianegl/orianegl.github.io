@@ -2,7 +2,7 @@
     --defaultColor: #404040;
     --scaler: 50vw;
     --highlightColor: hsl(40, 60%, 50%);
-    --backgroundColor:hsl(50, 25%, 95%);
+    --backgroundColor:hsl(150deg 30% 60%);
 }
 * {
     box-sizing: border-box;
