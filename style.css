@@ -49,12 +49,12 @@ header h1 {
   overflow: hidden;
 }
     
-@keyframes cursor{
+@keyframes cursor {
   0%, 100%{border-color: transparent;}
   50%{border-color: #000;}
 }
 
-@keyframes typing{
+@keyframes typing {
   0%{ width: 0ch}
   30%{ width: 16ch;}
   80%{ width: 16ch;}
