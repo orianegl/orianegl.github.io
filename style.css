@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap');
+
 :root {
     --defaultColor: #404040;
     --scaler: 50vw;
@@ -22,8 +24,6 @@ body {
     margin: 0 auto;
 }
 
-header h1 {
-  @import url('https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap');
 body {
   margin: 0px;
   padding: 0px;
@@ -48,12 +48,12 @@ header h1 {
   white-space: nowrap;
   overflow: hidden;
 }
-    
+
 @keyframes cursor{
   0%, 100%{border-color: transparent;}
   50%{border-color: #000;}
 }
-    
+
 @keyframes typing{
   0%{ width: 0ch} /*Text is hidden*/
   30%{ width: 16ch;} /*The enitre header will be typed out*/
